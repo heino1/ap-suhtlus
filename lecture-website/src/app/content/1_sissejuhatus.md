@@ -1,13 +1,13 @@
 # Sissejuhatus arvutiprogrammide vahelisse suhtlemisse
 
-## Teema olulisus logistika valdkonnas
+## Teema olulisus ettevõtluse valdkonnas
 
-Tänapäeva logistika on muutunud järjest keerukamaks ja globaalsemaks. Ettevõtted peavad hallata keerulisi tarneahelaid, mis hõlmavad mitmeid osapooli, asukohti ja süsteeme. Sellises keskkonnas on arvutiprogrammide vaheline suhtlus muutunud kriitiliselt oluliseks, võimaldades:
+Tänapäeva ettevõtlus on muutunud järjest keerukamaks ja globaalsemaks. Ettevõtted peavad hallata keerulisi tarneahelaid, mis hõlmavad mitmeid osapooli, asukohti ja süsteeme. Sellises keskkonnas on arvutiprogrammide vaheline suhtlus muutunud kriitiliselt oluliseks, võimaldades:
 
 1. **Reaalajas andmevahetus** - Kaupade asukoha, oleku ja liikumise jälgimine kogu tarneahela ulatuses
 2. **Protsesside automatiseerimine** - Tellimuste töötlemine, laohaldus ja transpordi planeerimine ilma inimese sekkumiseta
 3. **Andmete integreerimine** - Erinevate süsteemide (ERP, WMS, TMS) vaheline sujuv andmevahetus
-4. **Otsuste tegemise toetamine** - Andmete kogumine ja analüüsimine optimaalsete logistiliste otsuste tegemiseks
+4. **Otsuste tegemise toetamine** - Andmete kogumine ja analüüsimine optimaalsete otsuste tegemiseks
 5. **Klienditeeninduse parandamine** - Täpsed tarneajad ja olekuteated klientidele
 
 Logistika valdkonnas on arvutiprogrammide vaheline suhtlus eriti oluline, kuna see võimaldab luua terviklikke lahendusi, mis ühendavad erinevaid osapooli (tarnijad, tootjad, laod, transpordifirmad, kliendid) ühtsesse inforuumi.
@@ -84,17 +84,17 @@ Arvutiprogrammide vaheline suhtlus on läbinud pika arenguteekonna:
 ## Loengu eesmärgid ja õpiväljundid
 
 ### Loengu eesmärgid
-1. Tutvustada arvutiprogrammide vahelise suhtlemise põhimõtteid ja olulisust logistika valdkonnas
+1. Tutvustada arvutiprogrammide vahelise suhtlemise põhimõtteid ja olulisust ettevõtluses
 2. Anda ülevaade erinevatest suhtlusprotokollidest ja -meetoditest
 3. Selgitada integratsioonimustrite ja -arhitektuuride põhimõtteid
 4. Tutvustada turvaaspekte programmide vahelises suhtluses
-5. Pakkuda praktilisi näiteid ja harjutusi reaalsetest logistika valdkonna stsenaariumitest
+5. Pakkuda praktilisi näiteid ja harjutusi reaalsetest ettevõtluse stsenaariumitest
 
 ### Õpiväljundid
 Pärast loengut on tudeng võimeline:
 1. Mõistma arvutiprogrammide vahelise suhtlemise põhimõtteid ja terminoloogiat
 2. Eristama erinevaid suhtlusprotokolle ja nende kasutusalasid
-3. Analüüsima logistika valdkonna integratsiooni vajadusi
+3. Analüüsima integratsiooni vajadusi ettevõtluses
 4. Hindama erinevate integratsioonilahenduste sobivust konkreetsete äriprobleemide lahendamiseks
-5. Kavandama lihtsamaid integratsioonilahendusi logistika valdkonna probleemide lahendamiseks
+5. Kavandama lihtsamaid integratsioonilahendusi äri probleemide lahendamiseks
 6. Arvestama turvaaspektidega programmide vahelise suhtluse planeerimisel
